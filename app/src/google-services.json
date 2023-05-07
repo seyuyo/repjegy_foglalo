@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "714067602981",
+    "project_id": "repjegy-foglalas",
+    "storage_bucket": "repjegy-foglalas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714067602981:android:c1d08fa3e6d1ec25ec99cc",
+        "android_client_info": {
+          "package_name": "hu.mobilalk.repjegy_foglalas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714067602981-ofjo7nagl97eds4eo4a9nvf255oafsg3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hu.mobilalk.repjegy_foglalas",
+            "certificate_hash": "8a3176f4262a05ae4eb9ed1808d4d4a37a6dc5ef"
+          }
+        },
+        {
+          "client_id": "714067602981-rkcpltneg1l3p1n1j91vm2lf1a3upmki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbSe7XEdQM5N7cNYB5Zmn0wu8vS81uChc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714067602981-rkcpltneg1l3p1n1j91vm2lf1a3upmki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
