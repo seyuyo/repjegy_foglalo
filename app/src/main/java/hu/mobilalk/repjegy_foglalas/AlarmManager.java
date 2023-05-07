@@ -1,0 +1,13 @@
+package hu.mobilalk.repjegy_foglalas;
+
+import android.content.BroadcastReceiver;
+import android.content.Context;
+import android.content.Intent;
+
+public class AlarmManager extends BroadcastReceiver {
+
+    @Override
+    public void onReceive(Context context, Intent intent) {
+        new NotificationManager(context).send("Itt az ideje foglalnmi!");
+    }
+}

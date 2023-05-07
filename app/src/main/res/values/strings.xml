@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Repjegy-Foglalas</string>
+
+    <string name="username">Felhasználónév</string>
+    <string name="password">Jelszó (Minimum 6 karakter)</string>
+    <string name="login">Bejelentkezés</string>
+
+    <string name="email">E-mail</string>
+    <string name="confirm_password">Jelszó megerősítése</string>
+    <string name="register">Regisztráció</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="phone">Telefonszám</string>
+    <string name="name">Teljes Név</string>
+
+    <string name="flight_number">Repülőjárat száma</string>
+    <string name="arrive_location">Érkezési helyszín</string>
+    <string name="departure_time">Indulási időpont</string>
+    <string name="arrive_time">Érkezési időpont</string>
+
+    <string name="price">Ár</string>
+    <string name="submit_flight">Repülőjárat keresés</string>
+
+
+    <string name="departure_location">Indulás helye</string>
+    <string name="arrival_location">Érkezés helye</string>
+    <string name="available_seats">Elérhető ülések</string>
+
+    <string name="confirm_reservation">Foglalás</string>
+
+    <string name="flight_summary_title">Repülőjárat összefoglaló</string>
+    <string name="reservation_summary_title">Foglalás összefoglaló</string>
+    <string name="currency">HUF</string>
+    <string name="editData">Adatok Szerkesztése</string>
+    <string name="logout">Kijelentkezés</string>
+    <string name="user_info">Felhasználói adatok</string>
+    <string name="save_reservation">Foglalás mentése</string>
+    <string name="res_summ_enter">Adja meg hány jegyet szeretne foglalni!</string>
+    <string name="flight_summary">Repülőjegy összegzés</string>
+    <string name="reservation_summary">Foglalás összegzés</string>
+    <string name="title">Üdvözöllek a Repjegy-foglaló alkalmazásban!</string>
+    <string name="deleteButton">Fiók törlése</string>
+
+
+
+
+</resources>
