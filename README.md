@@ -1,3 +1,8 @@
+# repjegy_foglalo
+
+Egy egyszerű repülőjegy-foglaló alkalmazás (webes), amely lehetővé teszi felhasználók számára járatok keresését, foglalását, és jegyek kezelését.
+
+
 ## Leírás
 
 A **repjegy_foglalo** célja, hogy demonstráljon egy alapvető repülőjegy-kereső és foglaló rendszer működését. A felhasználó járatokat keres, kiválasztja a megfelelőt, majd lefoglalhatja azt — az adminisztrátor kezelheti a járatokat, foglalásokat.  
